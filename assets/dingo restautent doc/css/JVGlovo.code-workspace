@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "JVGlovo",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JVGlovo"
+	}
+}
